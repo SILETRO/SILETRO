@@ -1,4 +1,4 @@
 - Hi, I’m @SILETRO
 - I’m interested in ...
-- I’m currently learning python and am interested in data science
+- I’m currently learning the basics of Machine Learning to Oriely's Hands on Machine Learning Book.
 - You can reach me on insta _idant_srivastava
