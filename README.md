@@ -1,12 +1,12 @@
-# Hi, I'm Idant Srivastava 👋
+# Hi, I'm Idant Srivastava
 
-I'm a Computer Science undergrad at **Manipal Institute of Technology** (Class of 2029), focused on machine learning, deep learning, and generative AI. I build end-to-end ML pipelines — from data preprocessing and model training to deployment — and I'm always looking for problems where AI can make a meaningful difference.
+I'm a Computer Science undergrad at **Manipal Institute of Technology** (Class of 2029), focused on machine learning, deep learning, and generative AI.
 
 Currently working as a **Junior Researcher (AI/ML)** at Cryptonite, a student-led research initiative at MIT Manipal, where I explore deep learning architectures and applied AI workflows.
 
 ---
 
-## 🛠 What I work with
+## What I work with
 
 **Languages:** Python · Java · C · SQL  
 **ML / DL:** TensorFlow · PyTorch · Scikit-learn · BERT · CNN · RNN  
@@ -16,7 +16,7 @@ Currently working as a **Junior Researcher (AI/ML)** at Cryptonite, a student-le
 
 ---
 
-## 🔬 Projects
+## Projects
 
 ### 🌦 Multivariate Time-Series Weather Forecasting
 Built GRU, LSTM, and RNN models for daily temperature and precipitation forecasting using TensorFlow. Implemented cyclical feature encoding and wind vector decomposition for atmospheric pattern capture.  
@@ -36,7 +36,7 @@ Built a semantic QA pipeline combining FAISS vector search with Google FLAN-T5 f
 
 ---
 
-## 🏆 Kaggle
+## Kaggle
 
 | Competition | Rank | Approach |
 |---|---|---|
@@ -45,14 +45,14 @@ Built a semantic QA pipeline combining FAISS vector search with Google FLAN-T5 f
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Neural Networks and Deep Learning** — DeepLearning.AI (Coursera)
 - **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization** — DeepLearning.AI (Coursera)
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
-- 📧 [idantsri2007@gmail.com](mailto:idantsri2007@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/idant-srivastava-412019241)
+- [idantsri2007@gmail.com](mailto:idantsri2007@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/idant-srivastava-412019241)
